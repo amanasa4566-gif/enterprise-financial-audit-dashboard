@@ -64,6 +64,10 @@ The final dataset was validated with no missing User IDs or USD Revenue values.
 - Date slicer for interactive filtering
 - Revenue and customer performance insights
 
+## Dashboard Preview
+
+![Enterprise Financial Audit Dashboard](financial-audit-dashboard.png)
+
 ## Project Files
 
 - `Enterprise_Financial_Audit_Dashboard.pbix` — Power BI dashboard file
