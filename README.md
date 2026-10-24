@@ -70,9 +70,9 @@ The final dataset was validated with no missing User IDs or USD Revenue values.
 
 ## Project Files
 
-- `Enterprise_Financial_Audit_Dashboard.pbix` — Power BI dashboard file
-- `Enterprise_Financial_Audit_Dashboard_Python.ipynb` — Python notebook
-- `Enterprise_Financial_Audit_Dashboard_Presentation.pptx` — Project presentation
+- [Power BI Dashboard](Enterprise_Financial_Audit_Dashboard.pbix) — Interactive financial audit dashboard
+- [Python Notebook](Enterprise_Financial_Audit_Dashboard_Python.ipynb) — Data cleaning, transformation, and validation
+- [Project Presentation](Enterprise_Financial_Audit_Dashboard_Presentation.pptx) — Project overview and findings
 
 ## Conclusion
 
